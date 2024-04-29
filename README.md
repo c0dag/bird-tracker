@@ -12,7 +12,7 @@ This was my first moderately complex project—a bird tracker utilizing computer
 
 <h1>EXAMPLE</h1>
 
-[![](https://img.youtube.com/vi/3RlpVrYt_qE/0.jpg)](https://www.youtube.com/watch?v=3RlpVrYt_qE)
+[![](https://img.youtube.com/vi/MLBOpOaSd5M/0.jpg)](https://www.youtube.com/watch?v=MLBOpOaSd5M)
 
 
 EXAMPLE - https://www.youtube.com/watch?v=MLBOpOaSd5M 
