@@ -4,7 +4,7 @@ This was my first moderately complex project—a bird tracker utilizing computer
 <picture>
   <img src="https://i.imgur.com/WIJvlLE.jpeg">
 </picture>
-<img source="https://i.imgur.com/JdBJ3TJ.gif" style="width:48px;height:48px;">
+![](https://i.imgur.com/JdBJ3TJ.gif)
 
 RESULTS - https://imgur.com/a/ZGYpK5o
 FIRST ITERATION - https://imgur.com/a/p6AKmal
