@@ -4,9 +4,9 @@ This was my first moderately complex project—a bird tracker utilizing computer
 <picture>
   <img src="https://i.imgur.com/WIJvlLE.jpeg">
 </picture>
-<picture>
-  <video src="https://i.imgur.com/3E2BL3h.mp4">
-</picture>
+<video width="320" height="240" controls>
+  <source src="https://i.imgur.com/3E2BL3h.mp4" type="video/mp4">
+</video>
 
 RESULTS - https://imgur.com/a/ZGYpK5o
 FIRST ITERATION - https://imgur.com/a/p6AKmal
