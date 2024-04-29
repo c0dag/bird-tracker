@@ -12,6 +12,7 @@ This was my first moderately complex project—a bird tracker utilizing computer
 
 <h1>EXAMPLE</h1>
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MLBOpOaSd5M?si=VR3ZEEFOhx0DDYVV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+[![](https://img.youtube.com/vi/3RlpVrYt_qE/0.jpg)](https://www.youtube.com/watch?v=3RlpVrYt_qE)
+
 
 EXAMPLE - https://www.youtube.com/watch?v=MLBOpOaSd5M 
